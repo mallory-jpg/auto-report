@@ -3,7 +3,7 @@ A platform for tracking a given car's history of accidents, repairs, and sales a
 
 This PySpark job mimic Hadoop's MapReduce functionality to produce a report of a given car's accident history by year and make. (Py)Spark has a significant advantage over traditional MapReduce's in-mem processing performance. 
 
-## The Data
+### 🚙🚙 The Data 🚙🚙
 Stored as a CSV in HDFS
 |Column   |Type   |Info |
 |---|---|---|
