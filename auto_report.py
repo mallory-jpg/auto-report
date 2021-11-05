@@ -26,7 +26,7 @@ df.show()
 
 def extract_key_vin_value(x):
     """:param x: data source loaded into SparkSession,
-        :output: dictionary tuple with mapping values to be transformed into MapType"""
+        :output: dictionary tuple with mapping values"""
 
     vin_number = x.vin_num
     make = x.make
